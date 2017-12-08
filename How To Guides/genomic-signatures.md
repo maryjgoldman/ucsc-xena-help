@@ -25,3 +25,9 @@ Here we can see that the predicted chemo response signature is high in the basal
 
 [https://xenabrowser.net/?bookmark=2401ccb792e256d7397008b24af20565](https://xenabrowser.net/?bookmark=2401ccb792e256d7397008b24af20565)
 
+### ![](/assets/genomicSignatures.png) {#citation}
+
+### Citation {#citation}
+
+[Hess KR, et. al. Pharmacogenomic predictor of sensitivity to preoperative chemotherapy with paclitaxel and fluorouracil, doxorubicin, and cyclophosphamide in breast cancer. J Clin Oncol. 2006 Sep 10;24\(26\):4236-44. Epub 2006 Aug 8.](http://www.ncbi.nlm.nih.gov/pubmed/16896004)
+
